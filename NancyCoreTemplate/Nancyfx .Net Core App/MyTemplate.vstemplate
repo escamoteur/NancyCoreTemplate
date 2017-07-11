@@ -3,7 +3,7 @@
     <Name>Nancyfx .Net Core App</Name>
     <Description>Basic Nancyfx App hosted on Kestrel on .Net Core</Description>
     <ProjectType>CSharp</ProjectType>
-    <ProjectSubType>
+    <ProjectSubType>Web
     </ProjectSubType>
     <SortOrder>1000</SortOrder>
     <CreateNewFolder>true</CreateNewFolder>
